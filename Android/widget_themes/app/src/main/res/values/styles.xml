@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button3Style" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@drawable/fradient</item>
+        <item name="android:background">@drawable/gradient</item>
+    </style>
+</resources>
